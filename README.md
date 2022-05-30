@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ig-Matrix
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning HTML and CSS 
+- 🌱 I’m currently undergoing an internship on Full stack Web development 
 - 💞️ I’m looking to collaborate on building professional websites 
 - 📫 How to reach me omomaighawosa440@gmail.com 
 
