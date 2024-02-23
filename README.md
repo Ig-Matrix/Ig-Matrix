@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ig-Matrix
-- 👀 I’m Fullstack Web Developer
+- 👀 A Frontend Web Developer
 - 💞️ I’m looking to collaborate on building professional websites 
 - 📫 How to reach me omomaighawosa440@gmail.com 
 
